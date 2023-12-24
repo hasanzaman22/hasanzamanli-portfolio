@@ -10,7 +10,7 @@ export const Cv = () => {
             </Col>
             <Col md={6} xl={7}>
                 <div className="cv-download-btn">
-                    <button><a href="https://bit.ly/3URPJGe">Download CV</a></button>
+                    <button><a href="https://bit.ly/3GXt06u">Download CV</a></button>
                 </div>
             </Col>
           </Row>
